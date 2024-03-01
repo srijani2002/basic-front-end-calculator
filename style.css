@@ -1,0 +1,73 @@
+.interface{
+    background-color: #524d4d;
+    width: 50%;
+    border-radius: 3%;
+    position: relative;
+    left: 25%;
+    top: 50px;
+    padding-bottom: .001%;
+}
+header{
+    color: antiquewhite;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 2.5rem;
+    padding-bottom: 5%;
+}
+.display{
+    color: rgb(0, 0, 0);
+    text-align: right;
+    font-family: 'Press Start 2P', cursive;
+    border: 3px solid rgb(95, 148, 180);
+    background-color: rgb(71, 220, 220);
+    height: 100px;
+    width: 80%;
+    border-radius: 2%;
+    border-end-end-radius: 2%;
+    position: relative;
+    left: 10%;
+    
+}
+.displaypar{
+    align-items: center;
+}
+.btn{
+    background-color: #205bb3;
+    text-align: center;
+    color: antiquewhite;
+    height: 50px;
+    width: 60px;
+    border: 2px solid #0f3164;
+    font-family: 'Press Start 2P', cursive;
+    border-radius: 10%; 
+    
+}
+.btn_cont{
+    padding-top: 30px;
+    display: grid;
+    gap: 10px 10px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    padding-bottom: 10px;
+    padding-left: 5%;
+    padding-right: 5%;
+    position: relative;
+    left: 5%;
+}
+.equal{
+    width: 80%;
+    border-radius: 0%;
+    margin-bottom: 10%;
+    position: relative;
+    left: 10%;
+}
+.click{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    border: 3px solid rgb(4, 60, 95);
+    height: 100px;
+    width: 80%;
+    border-radius: 2%;
+    border-end-end-radius: 2%;
+}
