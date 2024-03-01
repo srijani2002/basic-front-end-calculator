@@ -20,7 +20,7 @@ header{
     font-family: 'Press Start 2P', cursive;
     border: 3px solid rgb(95, 148, 180);
     background-color: rgb(71, 220, 220);
-    height: 100px;
+    height: 120px;
     width: 80%;
     border-radius: 2%;
     border-end-end-radius: 2%;
@@ -47,7 +47,7 @@ header{
     display: grid;
     gap: 10px 10px;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    padding-bottom: 10px;
+    padding-bottom: 50px;
     padding-left: 5%;
     padding-right: 5%;
     position: relative;
@@ -66,6 +66,6 @@ header{
     text-align: center;
     font-family: 'Press Start 2P', cursive;
     border: 3px solid rgb(4, 60, 95);
-    border-radius: 2%;
-    border-end-end-radius: 2%;
+    border-radius: 10%;
+    
 }
